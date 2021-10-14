@@ -1,0 +1,1 @@
+The "recalib" files have an extra "tracking_marker_0" that was attached to the diabolo axis and the stick tips. Movies of all the takes are on Gitlab.

@@ -1,0 +1,10 @@
+Diabolo sizes:
+Red: 127 mm diameter, 144 mm height
+Green: 82 mm diameter, 94 mm height
+Bluewhite: 99 mm diameter, 115 mm height
+
+
+During calibration, the sticks were held so that the tip was close to the origin (but likely shifted about 4 mm above (z) and blocked by the other stick.
+The diabolos were placed such that the center was above the origin of the ground plane.
+
+The y-axis of the world coordinate system was pointing towards the cameras. The diabolo and sticks also had to face along the global y-axis.

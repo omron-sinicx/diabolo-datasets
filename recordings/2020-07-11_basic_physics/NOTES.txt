@@ -1,0 +1,3 @@
+These experiments were recorded with the red diabolo and a simpler mocap setup. The ground plane is elevated because the cameras could not see it otherwise.
+
+The short csv files in this directory are taken from the recordings in the "full_raw" directory. These excerpts should not contain missing frames.
